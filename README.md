@@ -19,14 +19,17 @@ Neste caderno temático, o assunto de interesse é a **Evolução do Mergulho Re
 
 ## 📚 2. Curadoria de Fontes
 
-Para garantir a precisão deste estudo, selecionei fontes especializadas sobre a indústria de mergulho. Os arquivos originais foram organizados e estão disponíveis para consulta na pasta `/fontes` deste repositório:
+Para garantir a precisão deste estudo, selecionei artigos e relatórios de mercado abertos sobre a indústria de mergulho. Você pode acessar as fontes originais utilizadas no NotebookLM através dos links abaixo:
 
 | ID | Nome da Fonte | Descrição | Link de Acesso |
 |:--:|:---|:---|:---|
-| 01 | *Scuba Diving Equipment Market Size (2024-2032)* | Dados de crescimento do mercado, demografia e tendências de equipamentos tecnológicos. | [Acessar PDF](./fontes/Scuba_Equipment_Market.pdf) |
-| 02 | *Dive Industry Trends & Strategic Analysis* | Estudo sobre a transição para "mergulhadores casuais" e os desafios de venda de equipamentos. | [Acessar PDF](./fontes/Dive_Industry_Trends.pdf) |
-| 03 | *The Essential Role of a Dive Log* | Artigo detalhando a importância do Logbook físico e digital para a segurança e certificações. | [Acessar PDF](./fontes/Essential_Dive_Log.pdf) |
-| 04 | *Custom Dive Log: Perfect 2025 Guide* | Guia sobre como personalizar cadernos de mergulho para rastrear metas e dados técnicos avançados. | [Acessar PDF](./fontes/Custom_Dive_Log.pdf) |
+| 01 | *Scuba Diving Equipment Market Size (2024-2032)* | Dados de crescimento do mercado, demografia e tendências de equipamentos tecnológicos. | [Ler Artigo Completo](https://www.gminsights.com/industry-analysis/scuba-diving-equipment-market) |
+| 02 | *Dive Industry Trends & Strategic Analysis* | Estudo sobre a transição para "mergulhadores casuais" e os desafios atuais do setor. | [Ler Artigo Completo](https://www.businessofdiving.com/scuba-industry-trends-strategic-analysis-conclusions) |
+| 03 | *The Essential Role of a Dive Log* | Artigo detalhando a importância do Logbook físico e digital para a segurança e certificações. | [Ler Artigo Completo](https://www.michaelbstrauss.com/post/dive-log-books) |
+| 04 | *Custom Dive Log: Perfect 2025 Guide* | Guia técnico sobre métricas essenciais para rastreamento no mergulho autônomo. | [Ler Artigo Completo](https://www.michaelbstrauss.com/post/custom-dive-log) |
+| 05 | *What should you include in a ship's log?* | Guia complementar de boas práticas de registro náutico e diários de bordo. | [Ler Artigo Completo](https://jollyparrot.co.uk/blog/what-should-you-include-in-a-ships-log) |
+
+*(Nota: Todo o conteúdo destas páginas da web foi importado para o NotebookLM para a geração dos resumos e métricas deste projeto).*
 
 ---
 
